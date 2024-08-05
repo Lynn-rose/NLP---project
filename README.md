@@ -82,7 +82,7 @@ This model can help target entities identify emotions whether positive negative 
 
 
  ## For More Information  
-Please review my full analysis in my [Jupyter Notebook](https://github.com/Lynn-rose/NLP---project/blob/main/index.ipynb) or my [Presentation](https://github.com/Lynn-rose/phase-3-project/blob/main/Predicting%20H1N1%20Vaccine%20Uptake.pdf)
+Please review my full analysis in my [Jupyter Notebook](https://github.com/Lynn-rose/NLP---project/blob/main/index.ipynb) or my [Presentation](https://github.com/Lynn-rose/NLP---project/blob/main/presantation.pdf)
 
 For any additional questions, please contact Lynn Rose Achieng, lynn90952@gmail.com
 
