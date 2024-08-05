@@ -42,7 +42,7 @@ The following steps were taken in the preparation of the data ready for modellin
 
 
 ## Modeling
-The following models were used during the developing of a machine learning model that can predict sentiments expressed in tweets about topics or brands into specific classes- positive, negative or neutral is a huge challenge for companies like Apple and Google. Naive Bayes,Logistic Regression, Decision Tree, and Deep Learning models
+The following models were used during the developing of a machine learning model that can predict sentiments expressed in tweets about topics or brands into specific classes- positive, negative or neutral is a huge challenge for companies like Apple and Google. 
 
 1. Logistic Regression
 2. Decision Tree Classifier
@@ -69,7 +69,7 @@ In this project, multiple evaluation metrics were used to assess the performance
 5. Confusion Matrix Definition: A table used to describe the performance of a classification model, showing the actual vs. predicted classifications.
 
 
-## Conlusion
+## Conclusion
 Based on the evaluation metrics (accuracy, classification reports), the Support Vector Classifier outperformed other models with the highest test accuracy. This model was selected as the final model for predicting emotions.The following are the results of the metrics used during the modeling:
 
 Support Vector Classifier
