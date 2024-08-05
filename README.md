@@ -1,7 +1,6 @@
 # Tweet Sentiment Analysis
 
-![TWEET](https://github.com/Lynn-rose/phase-3-project/blob/main/images/WhatsApp%20Image%202024-06-06%20at%209.42.13%20AM.jpeg)
-
+![TWEET](https://github.com/Lynn-rose/NLP---project/blob/main/images/WhatsApp%20Image%202024-08-05%20at%2010.22.14%20AM.jpeg)
 ## BUSINESS UNDERSTANDING
 ### Introduction
 Apple and Google have been constantly innovating and changing their products, services, and customer experiences. This has led to a surge in customer feedback and a need for companies to analyze and understand the sentiments expressed by their users. Tweets provide a unique platform for companies to gather feedback and respond to their customers, which can be a valuable resource for understanding consumer behavior and making data-driven decisions. This project aims to analyze the sentiments expressed in tweets about Apple and Google products.
